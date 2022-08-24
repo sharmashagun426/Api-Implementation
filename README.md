@@ -1,2 +1,15 @@
-# Api-Implementation
-API Implementation in reactjs using axios.
+# Getting Started with Create React App
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+run npm install for install required npm module.
+
+### `npm start`
+
+Runs the app in the development mode.
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
