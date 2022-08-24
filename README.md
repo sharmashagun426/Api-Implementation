@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-run npm install for install required npm module.
+Run npm install for install required npm module.
 
 ### `npm start`
 
